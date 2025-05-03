@@ -23,8 +23,8 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/c07f3s.jpeg">
-    <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto">
+  <a href="https://github.com/Dialmw/LIAM_Lux-MD/blob/main/logo%20l%20md.jpg">
+    <img src="https://github.com/Dialmw/LIAM_Lux-MD/blob/main/logo%20l%20md.jpg" width="100%" height="auto">
   </a>
 </p>
 

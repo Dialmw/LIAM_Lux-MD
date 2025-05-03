@@ -55,11 +55,6 @@
   </a>
 </p>
 
-<!-- Referral Code -->
-<p align="center">
-  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
-</p>
-
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">

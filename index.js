@@ -1,8 +1,8 @@
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [LIAM LuX MD V1.0.0]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
-//  >> Scripted by Sir Ibrahim Adams                                    
-//  >> Version: 8.3.5-quantum.7
+//  >> molder; Liam                                   
+//  >> Version1.0.0.0.0
 
 const axios = require('axios');
 const cheerio = require('cheerio');

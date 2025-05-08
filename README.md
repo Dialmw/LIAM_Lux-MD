@@ -83,7 +83,7 @@ node index.js
 ```
 
 ## 🔍 Get a Session (Scanner)
-Visit: [Get Quantum Session](https://www.ibrahimadams.site/scanner) — to generate your session via QR code.  
+Visit: [Get Version 1.0.0 Session](https://www.ibrahimadams.site/scanner) — to generate your session via QR code.  
 Make sure your WhatsApp is linked to WhatsApp Web.
 
 > **Note:** Keep your session key secure. Never share it publicly.

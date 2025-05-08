@@ -27,4 +27,4 @@ function adams(obj, fonctions) {
     return infoComs;
 }
 
-module.exports = { adams, cm, ev };
+module.exports = { Liam, cm, ev };

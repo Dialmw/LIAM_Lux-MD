@@ -30,11 +30,11 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://www.ibrahimadams.site/scanner">
+  <a href="https://github.com/Dialmw/My-site">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
   
-  <a href="https://www.ibrahimadams.site/Deploy">
+  <a href="https://github.com/Dialmw/My-site">
     <img title="DEPLOY LIAM LUX" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
@@ -44,7 +44,7 @@
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
   
-  <a href="https://ibrahimadams.site/Panel_files">
+  <a href="https://github.com/Dialmw/My-site">
     <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
 </p>
@@ -76,14 +76,14 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/yourusername/liam-lux-md.git
+git clone https://github.com/Dialmw/liam-lux-md.git
 cd liam-lux-md
 npm install
 node index.js
 ```
 
 ## 🔍 Get a Session (Scanner)
-Visit: [Get Version 1.0.0 Session](https://www.ibrahimadams.site/scanner) — to generate your session via QR code.  
+Visit: [Get Version 1.0.0 Session](https://github.com/Dialmw/My-site) — to generate your session via QR code.  
 Make sure your WhatsApp is linked to WhatsApp Web.
 
 > **Note:** Keep your session key secure. Never share it publicly.
